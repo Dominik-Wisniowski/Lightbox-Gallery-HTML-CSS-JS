@@ -18,6 +18,11 @@ body{
     justify-content: center;
     margin: 2rem;
 }
+h1{
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+}
 .thumbnail{
     cursor: pointer;
     list-style: none;
